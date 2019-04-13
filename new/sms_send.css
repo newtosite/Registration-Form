@@ -1,0 +1,10 @@
+body{
+	background-image : url("sms1.jpg");
+	background-repeat : no-repeat;
+	background-size : 100% 345%;
+}
+h1{
+	font-family : "Comic Sans MS", cursive, sans-serif;
+	font-size : 70px;
+	color : white;
+	text-align : center;
